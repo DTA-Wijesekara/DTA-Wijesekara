@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dasun Theekshana</h1>
-<h3 align="center">Under graduate at University of Moratuwa Sri lanka</h3>
+<h3 align="center">Undergraduate at University of Moratuwa Sri lanka</h3>
 
 <br>
 
